@@ -1,0 +1,21 @@
+@font-face{
+  font-family:"ScalySansRemake";
+  src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/f37c99944fed0e5e01f082e511f104b39b7b4566/ScalySans/Scaly-Sans-Caps.woff') format('woff')
+} 
+@font-face {
+  font-family: "MrEavesSmallCaps";
+  src: url("https://raw.githubusercontent.com/jonathonf/solbera-dnd-fonts/master/Mr%20Eaves/Mr%20Eaves%20Small%20Caps.otf") format("opentype");
+}
+
+:root {
+	--scroll: url("https://i.imgur.com/XJY6fa1.jpg");
+  --baverage: #F2ECE4;
+  --h1color:#58180D;
+  --tdcolor:#E0E5C1;
+  --titlecolor:#ED1C24;
+  --underlinecolor:#f0bf48;
+  --statblocklines:#9c2b1b;
+  --redscroll:url(https://i.imgur.com/YvYGqOX.jpg);
+  --bluescroll:url(https://i.imgur.com/w2m4BgW.jpg);
+  --seascroll:url(https://i.imgur.com/dKciX3y.jpg);
+}
